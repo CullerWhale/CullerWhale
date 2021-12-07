@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CullerWhale
-- 👀 I’m interested in developing blockchain applications.
+- 👀 I’m interested in developing blockchain applications and applying artificially intelligent neural networks.
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on passion projects. 
 
