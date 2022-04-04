@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CullerWhale
-- 👀 I’m interested in developing blockchain applications and applying artificially intelligent neural networks.
-- 🌱 I’m currently learning full stack development.
+- 👀 I’m interested in developing blockchain applications, engineering smart contracts, and applying custom artificially intelligent neural networks.
+- 🌱 I’m currently earning my Master's degree in Blockchain and Digital Currencies at the University of Nicosia, and learning full stack development at Washington University in St. Louis.
 - 💞️ I’m looking to collaborate on passion projects. 
 
 
